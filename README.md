@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/firdevssaygin" target="blank"><img src="https://img.shields.io/twitter/follow/firdevssaygin?logo=twitter&style=for-the-badge" alt="firdevssaygin" /></a> </p>
 
-- 🔭 I’m currently working on [Ethereum](https://github.com/users/1firdevs/projects/2)
-
 - 📫 How to reach me **firdevssaygin7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
