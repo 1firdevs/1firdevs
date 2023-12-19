@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Firdevs</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1firdevs&label=Profile%20views&color=0e75b6&style=flat" alt="1firdevs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/firdevssaygin" target="blank"><img src="https://img.shields.io/twitter/follow/firdevssaygin?logo=twitter&style=for-the-badge" alt="firdevssaygin" /></a> </p>
 
 - 🔭 I’m currently working on [Ethereum](https://github.com/users/1firdevs/projects/2)
-
-- 🌱 I’m currently learning **courses**
-
-- 📝 I regularly write articles on [https://medium.com/@firdevssaygin](https://medium.com/@firdevssaygin)
 
 - 📫 How to reach me **firdevssaygin7@gmail.com**
 
